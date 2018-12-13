@@ -3,8 +3,7 @@
 Simple search on a list. 
 Datagrid with paging is implemented. 
 
-First download the packages using the below code
-npm install
+First download the packages using the "npm install"
 
 ### Building the code
 
