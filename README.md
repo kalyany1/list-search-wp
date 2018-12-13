@@ -1,6 +1,10 @@
 ## list-search-wp
 
-This is where you include your WebPart documentation.
+Simple search on a list. 
+Datagrid with paging is implemented. 
+
+First download the packages using the below code
+npm install
 
 ### Building the code
 
