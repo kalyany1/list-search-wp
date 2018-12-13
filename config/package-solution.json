@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "list-search-wp-client-side-solution",
+    "id": "77f6f303-3a5a-4021-839d-f2a5a81cb7dc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/list-search-wp.sppkg"
+  }
+}

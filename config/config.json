@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "search-list-wp-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/searchListWp/SearchListWpWebPart.js",
+          "manifest": "./src/webparts/searchListWp/SearchListWpWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "jquery":{
+      "path":"node_modules/jquery/dist/jquery.min.js",
+      "globalName": "jquery"
+    }
+  },
+  "localizedResources": {
+    "SearchListWpWebPartStrings": "lib/webparts/searchListWp/loc/{locale}.js"
+  }
+}
