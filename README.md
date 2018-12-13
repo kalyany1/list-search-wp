@@ -3,7 +3,10 @@
 Simple search on a list. 
 Datagrid with paging is implemented. 
 
-First download the packages using the "npm install"
+First download all the required packages using the "npm install".
+
+Make sure you have the mentioned List (Employee) and its respective columns 
+(Title,Id,ccEmployee,ccEmployeeType,CCVintageYear,ccSalary,ccStartDate). Check EmployeesUI.tsx file.
 
 ### Building the code
 
